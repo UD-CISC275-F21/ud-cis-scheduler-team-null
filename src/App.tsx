@@ -10,6 +10,7 @@ function App(): JSX.Element {
                 UD CIS Scheduler
                 <p>
                     Josh Lyon!
+                    Eeshita Biswas!
                 </p>
             </header>
         </div>
