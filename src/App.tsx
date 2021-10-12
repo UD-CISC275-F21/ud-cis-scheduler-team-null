@@ -9,7 +9,10 @@ function App(): JSX.Element {
                 <img src={logo} className="App-logo" alt="logo" />
                 UD CIS Scheduler
                 <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
+                    Josh Lyon!
+                    Eeshita Biswas! 
+                    Lauren Baron!
+					Chu Qiao!
                 </p>
             </header>
         </div>
