@@ -12,6 +12,7 @@ function App(): JSX.Element {
                     Josh Lyon!
                     Eeshita Biswas! 
                     Lauren Baron!
+					Chu Qiao!
                 </p>
             </header>
         </div>
